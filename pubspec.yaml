@@ -1,6 +1,6 @@
 name: atlas_icons
 description: Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
-version: 0.0.5
+version: 0.0.6
 homepage: http://vectopus.com/atlas-icons
 
 environment:
@@ -41,7 +41,37 @@ flutter:
   fonts:
     - family: Atlas-Icons
       fonts:
-        - asset: lib/fonts/Atlas-Icons.ttf
+        - asset: lib/fonts/audio/audio.ttf
+        - asset: lib/fonts/basic-ui/basic-ui.ttf
+        - asset: lib/fonts/business-finance/business-finance.ttf
+        - asset: lib/fonts/christmas/christmas.ttf
+        - asset: lib/fonts/cinema/cinema.ttf
+        - asset: lib/fonts/communication/communication.ttf
+        - asset: lib/fonts/construction/construction.ttf
+        - asset: lib/fonts/content-box/content-box.ttf
+        - asset: lib/fonts/data-document/data-document.ttf
+        - asset: lib/fonts/ecology/ecology.ttf
+        - asset: lib/fonts/electronic-gadget/electronic-gadget.ttf
+        - asset: lib/fonts/fitness-gym/fitness-gym.ttf
+        - asset: lib/fonts/food-beverage/food-beverage.ttf
+        - asset: lib/fonts/furniture/furniture.ttf
+        - asset: lib/fonts/hand-gesture/hand-gesture.ttf
+        - asset: lib/fonts/hotel-service/hotel-service.ttf
+        - asset: lib/fonts/internet-security/internet-security.ttf
+        - asset: lib/fonts/laboratory/laboratory.ttf
+        - asset: lib/fonts/marketing/marketing.ttf
+        - asset: lib/fonts/medical/medical.ttf
+        - asset: lib/fonts/real-estate/real-estate.ttf
+        - asset: lib/fonts/school/school.ttf
+        - asset: lib/fonts/social/social.ttf
+        - asset: lib/fonts/thanksgiving/thanksgiving.ttf
+        - asset: lib/fonts/transportation/transportation.ttf
+        - asset: lib/fonts/travel/travel.ttf
+        - asset: lib/fonts/virtual-reality/virtual-reality.ttf
+        - asset: lib/fonts/weather/weather.ttf
+        - asset: lib/fonts/web-design/web-design.ttf
+        - asset: lib/fonts/winter/winter.ttf
+        - asset: lib/fonts/world-monuments/world-monuments.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
