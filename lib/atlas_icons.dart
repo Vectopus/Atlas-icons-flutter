@@ -152,7 +152,7 @@ class Atlas {
   static const IconData video_clip_bold = IconData(0xaa98f, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
   static const IconData video_recorder_bold = IconData(0xaa990, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
   static const IconData volume_bold = IconData(0xaa991, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
-  static const IconData waveform_bold = IconData(0xaa992, fontFamily: _fontFamily);, fontPackage: 'atlas_icons'  
+  static const IconData waveform_bold = IconData(0xaa992, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
   static const IconData account_thin = IconData(0xab900, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
   static const IconData alarm_clock_thin = IconData(0xab901, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
   static const IconData align_center_thin = IconData(0xab902, fontFamily: _fontFamily, fontPackage: 'atlas_icons');
