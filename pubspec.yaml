@@ -1,6 +1,6 @@
 name: atlas_icons
 description: Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
-version: 0.0.7
+version: 0.0.10
 homepage: http://vectopus.com/atlas-icons
 
 environment:
@@ -39,38 +39,132 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Atlas-Icons
+    - family: Atlas-audio
       fonts:
         - asset: lib/fonts/audio/audio.ttf
+
+    - family: Atlas-basic-ui
+      fonts:
         - asset: lib/fonts/basic-ui/basic-ui.ttf
+
+    - family: Atlas-business-finance
+      fonts:
         - asset: lib/fonts/business-finance/business-finance.ttf
+
+    - family: Atlas-christmas
+      fonts:
         - asset: lib/fonts/christmas/christmas.ttf
+
+    - family: Atlas-cinema
+      fonts:
         - asset: lib/fonts/cinema/cinema.ttf
+    
+    - family: Atlas-communication
+      fonts:
         - asset: lib/fonts/communication/communication.ttf
+
+    - family: Atlas-construction
+      fonts:
         - asset: lib/fonts/construction/construction.ttf
+
+    - family: Atlas-content-box
+      fonts:
         - asset: lib/fonts/content-box/content-box.ttf
+
+    - family: Atlas-data-document
+      fonts:
         - asset: lib/fonts/data-document/data-document.ttf
+    
+    - family: Atlas-ecology
+      fonts:
         - asset: lib/fonts/ecology/ecology.ttf
+
+    - family: Atlas-electronic-gadge
+      fonts:    
         - asset: lib/fonts/electronic-gadget/electronic-gadget.ttf
+
+    - family: Atlas-fitness-gym
+      fonts:
         - asset: lib/fonts/fitness-gym/fitness-gym.ttf
+
+    - family: Atlas-food-beverage
+      fonts:    
         - asset: lib/fonts/food-beverage/food-beverage.ttf
+
+    - family: Atlas-furniture
+      fonts: 
         - asset: lib/fonts/furniture/furniture.ttf
+
+    - family: Atlas-hand-gesture
+      fonts:
         - asset: lib/fonts/hand-gesture/hand-gesture.ttf
+
+    - family: Atlas-hotel-service
+      fonts:
         - asset: lib/fonts/hotel-service/hotel-service.ttf
+
+    - family: Atlas-internet-security
+      fonts:    
         - asset: lib/fonts/internet-security/internet-security.ttf
+
+    - family: Atlas-laboratory
+      fonts: 
         - asset: lib/fonts/laboratory/laboratory.ttf
+
+    - family: Atlas-love
+      fonts: 
+        - asset: lib/fonts/love/love.ttf
+
+    - family: Atlas-marketing
+      fonts:     
         - asset: lib/fonts/marketing/marketing.ttf
+
+    - family: Atlas-medical
+      fonts:    
         - asset: lib/fonts/medical/medical.ttf
+
+    - family: Atlas-real-estate
+      fonts: 
         - asset: lib/fonts/real-estate/real-estate.ttf
+
+    - family: Atlas-school
+      fonts: 
         - asset: lib/fonts/school/school.ttf
+
+    - family: Atlas-social
+      fonts:     
         - asset: lib/fonts/social/social.ttf
+
+    - family: Atlas-thanksgiving
+      fonts: 
         - asset: lib/fonts/thanksgiving/thanksgiving.ttf
+
+    - family: Atlas-transportation
+      fonts:
         - asset: lib/fonts/transportation/transportation.ttf
+
+    - family: Atlas-travel
+      fonts:
         - asset: lib/fonts/travel/travel.ttf
+
+    - family: Atlas-virtual-reality
+      fonts:
         - asset: lib/fonts/virtual-reality/virtual-reality.ttf
+
+    - family: Atlas-weather
+      fonts:
         - asset: lib/fonts/weather/weather.ttf
+
+    - family: Atlas-web-design
+      fonts:
         - asset: lib/fonts/web-design/web-design.ttf
+
+    - family: Atlas-winter
+      fonts:
         - asset: lib/fonts/winter/winter.ttf
+
+    - family: Atlas-world-monument
+      fonts:
         - asset: lib/fonts/world-monuments/world-monuments.ttf
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
