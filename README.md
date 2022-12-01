@@ -1,35 +1,29 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Atlas icons Flutter
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+#### Open source [icons library](http://atlasicons.vectopus.com/), Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+##### _Made by [Vectopus](http://vectopus.com/)._
 
-Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries
+### How to use
+Install Flutter package.
 
+```flutter pub add atlas_icons```
 
-## Features
-
-
-## Getting started
-
-
-## Usage
-
-
-
+Import package in your Dart file.
 ```dart
-const like = 'sample';
+import 'package:atlas_icons/atlas_icons.dart';
 ```
 
-## Additional information
+Embed Icon widget into your component.
 
-Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+```dart
+Icon( Atlas.audio_album, size: 24.0, )
+```
+
+### Related Packages
+- [Atlas Icons Font](https://github.com/Vectopus/Atlas-icons-font)
+- [Atlas Icons Vue](https://github.com/Vectopus/Atlas-icons-vue)
+- [Atlas Icons React](https://github.com/Vectopus/Atlas-icons-react)
+
+### License
+MIT © [Atlas Icons](https://github.com/Vectopus/Atlas-icons-flutter/blob/main/LICENSE)
