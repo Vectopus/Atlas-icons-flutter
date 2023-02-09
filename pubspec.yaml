@@ -1,6 +1,6 @@
 name: atlas_icons
 description: Open source icons library, Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
-version: 0.0.10
+version: 0.0.11
 homepage: http://vectopus.com/atlas-icons
 
 environment:
@@ -39,6 +39,14 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
+    - family: Atlas-achievement
+      fonts:
+        - asset: lib/fonts/achievement/achievement.ttf
+    
+    - family: Atlas-arrow
+      fonts:
+        - asset: lib/fonts/arrow/arrow.ttf
+
     - family: Atlas-audio
       fonts:
         - asset: lib/fonts/audio/audio.ttf
@@ -95,6 +103,10 @@ flutter:
       fonts: 
         - asset: lib/fonts/furniture/furniture.ttf
 
+    - family: Atlas-goals
+      fonts: 
+        - asset: lib/fonts/goals/goals.ttf
+
     - family: Atlas-hand-gesture
       fonts:
         - asset: lib/fonts/hand-gesture/hand-gesture.ttf
@@ -111,6 +123,10 @@ flutter:
       fonts: 
         - asset: lib/fonts/laboratory/laboratory.ttf
 
+    - family: Atlas-leadership
+      fonts:
+        - asset: lib/fonts/leadership/leadership.ttf
+
     - family: Atlas-love
       fonts: 
         - asset: lib/fonts/love/love.ttf
@@ -123,6 +139,14 @@ flutter:
       fonts:    
         - asset: lib/fonts/medical/medical.ttf
 
+    - family: Atlas-partnership
+      fonts:    
+        - asset: lib/fonts/partnership/partnership.ttf
+
+    - family: Atlas-personal-development
+      fonts:    
+        - asset: lib/fonts/personal-development/personal-development.ttf
+
     - family: Atlas-real-estate
       fonts: 
         - asset: lib/fonts/real-estate/real-estate.ttf
@@ -134,6 +158,10 @@ flutter:
     - family: Atlas-social
       fonts:     
         - asset: lib/fonts/social/social.ttf
+
+    - family: Atlas-sport
+      fonts:     
+        - asset: lib/fonts/sport/sport.ttf
 
     - family: Atlas-thanksgiving
       fonts: 
@@ -163,9 +191,18 @@ flutter:
       fonts:
         - asset: lib/fonts/winter/winter.ttf
 
+    - family: Atlas-working-together
+      fonts:
+        - asset: lib/fonts/working-together/working-together.ttf
+
     - family: Atlas-world-monument
       fonts:
         - asset: lib/fonts/world-monuments/world-monuments.ttf
+
+    - family: Atlas-yoga
+      fonts:
+        - asset: lib/fonts/yoga/yoga.ttf
+
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro

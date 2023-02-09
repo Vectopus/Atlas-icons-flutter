@@ -24,6 +24,7 @@ Icon( Atlas.audio_album, size: 24.0, )
 - [Atlas Icons Font](https://github.com/Vectopus/Atlas-icons-font)
 - [Atlas Icons Vue](https://github.com/Vectopus/Atlas-icons-vue)
 - [Atlas Icons React](https://github.com/Vectopus/Atlas-icons-react)
+- [Atlas Icons React Native](https://github.com/Vectopus/Atlas-icons-react-native)
 
 ### License
 MIT © [Atlas Icons](https://github.com/Vectopus/Atlas-icons-flutter/blob/main/LICENSE)
