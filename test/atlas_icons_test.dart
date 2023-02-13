@@ -1,12 +1,87 @@
 import 'package:flutter_test/flutter_test.dart';
-
 import 'package:atlas_icons/atlas_icons.dart';
 
 void main() {
-  test('adds one to input values', () {
-    final calculator = Calculator();
-    expect(calculator.addOne(2), 3);
-    expect(calculator.addOne(-7), -6);
-    expect(calculator.addOne(0), 1);
+  test('it can print a single icon', () {
+    expect(Atlas.crown_winner_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_down_circle_thin.codePoint, 0xe900);
+    expect(Atlas.archive_music_thin.codePoint, 0xe900);
+    expect(Atlas.account_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_down_shopping_cart_thin.codePoint, 0xe900);
+    expect(Atlas.angel_thin.codePoint, 0xe900);
+    expect(Atlas.adult_18_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_down_envelope_thin.codePoint, 0xe900);
+    expect(Atlas.axe_thin.codePoint, 0xe900);
+    expect(Atlas.add_chats_thin.codePoint, 0xe900);
+    expect(Atlas.add_folder_thin.codePoint, 0xe900);
+    expect(Atlas.arrows_recycle_thin.codePoint, 0xe900);
+    expect(Atlas.airpods_thin.codePoint, 0xe900);
+    expect(Atlas.balance_ball_thin.codePoint, 0xe900);
+    expect(Atlas.avocado_thin.codePoint, 0xe900);
+    expect(Atlas.armchair_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_up_stairs_star_thin.codePoint, 0xe900);
+    expect(Atlas.click_thin.codePoint, 0xe900);
+    expect(Atlas.air_conditioner_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_down_shield_thin.codePoint, 0xe900);
+    expect(Atlas.bacteria_thin.codePoint, 0xe900);
+    expect(Atlas.account_presentation_thin.codePoint, 0xe900);
+    expect(Atlas.account_arrows_thin.codePoint, 0xe900);
+    expect(Atlas.ambulance_thin.codePoint, 0xe900);
+    expect(Atlas.accounts_group_people_thin.codePoint, 0xe900);
+    expect(Atlas.account_circle_arrows_left_right_thin.codePoint, 0xe900);
+    expect(Atlas.apartment_buildings_thin.codePoint, 0xe900);
+    expect(Atlas.abacus_thin.codePoint, 0xe900);
+    expect(Atlas.android_thin.codePoint, 0xe900);
+    expect(Atlas.archery_bow_arrow_thin.codePoint, 0xe900);
+    expect(Atlas.acorn_thin.codePoint, 0xe900);
+    expect(Atlas.aeroplane_thin.codePoint, 0xe900);
+    expect(Atlas.airline_thin.codePoint, 0xe900);
+    expect(Atlas.arrow_360_thin.codePoint, 0xe900);
+    expect(Atlas.celcius_thin.codePoint, 0xe900);
+    expect(Atlas.account_website_thin.codePoint, 0xe900);
+    expect(Atlas.cabin_thin.codePoint, 0xe900);
+    expect(Atlas.agreement_arrow_increase_thin.codePoint, 0xe900);
+    expect(Atlas.arc_triomph_thin.codePoint, 0xe900);
+
+    expect(Atlas.crown_winner_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_down_circle_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.archive_music_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.account_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_down_shopping_cart_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.angel_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.adult_18_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_down_envelope_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.axe_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.add_chats_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.add_folder_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrows_recycle_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.airpods_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.balance_ball_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.avocado_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.armchair_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_up_stairs_star_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.click_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.air_conditioner_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_down_shield_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.bacteria_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.account_presentation_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.account_arrows_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.ambulance_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.accounts_group_people_thin.fontPackage, 'atlas_icons');
+    expect(
+        Atlas.account_circle_arrows_left_right_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.apartment_buildings_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.abacus_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.android_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.archery_bow_arrow_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.acorn_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.aeroplane_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.airline_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arrow_360_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.celcius_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.account_website_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.cabin_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.agreement_arrow_increase_thin.fontPackage, 'atlas_icons');
+    expect(Atlas.arc_triomph_thin.fontPackage, 'atlas_icons');
   });
 }
