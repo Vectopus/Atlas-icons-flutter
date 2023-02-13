@@ -42,166 +42,248 @@ flutter:
     - family: Atlas-achievement
       fonts:
         - asset: lib/fonts/achievement/achievement.ttf
-    
+          style: normal
+          weight: 400
+
     - family: Atlas-arrow
       fonts:
         - asset: lib/fonts/arrow/arrow.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-audio
       fonts:
         - asset: lib/fonts/audio/audio.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-basic-ui
       fonts:
         - asset: lib/fonts/basic-ui/basic-ui.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-business-finance
       fonts:
         - asset: lib/fonts/business-finance/business-finance.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-christmas
       fonts:
         - asset: lib/fonts/christmas/christmas.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-cinema
       fonts:
         - asset: lib/fonts/cinema/cinema.ttf
-    
+          style: normal
+          weight: 400
+
     - family: Atlas-communication
       fonts:
         - asset: lib/fonts/communication/communication.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-construction
       fonts:
         - asset: lib/fonts/construction/construction.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-content-box
       fonts:
         - asset: lib/fonts/content-box/content-box.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-data-document
       fonts:
         - asset: lib/fonts/data-document/data-document.ttf
-    
+          style: normal
+          weight: 400
+
     - family: Atlas-ecology
       fonts:
         - asset: lib/fonts/ecology/ecology.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-electronic-gadge
-      fonts:    
+      fonts:
         - asset: lib/fonts/electronic-gadget/electronic-gadget.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-fitness-gym
       fonts:
         - asset: lib/fonts/fitness-gym/fitness-gym.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-food-beverage
-      fonts:    
+      fonts:
         - asset: lib/fonts/food-beverage/food-beverage.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-furniture
-      fonts: 
+      fonts:
         - asset: lib/fonts/furniture/furniture.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-goals
-      fonts: 
+      fonts:
         - asset: lib/fonts/goals/goals.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-hand-gesture
       fonts:
         - asset: lib/fonts/hand-gesture/hand-gesture.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-hotel-service
       fonts:
         - asset: lib/fonts/hotel-service/hotel-service.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-internet-security
-      fonts:    
+      fonts:
         - asset: lib/fonts/internet-security/internet-security.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-laboratory
-      fonts: 
+      fonts:
         - asset: lib/fonts/laboratory/laboratory.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-leadership
       fonts:
         - asset: lib/fonts/leadership/leadership.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-love
-      fonts: 
+      fonts:
         - asset: lib/fonts/love/love.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-marketing
-      fonts:     
+      fonts:
         - asset: lib/fonts/marketing/marketing.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-medical
-      fonts:    
+      fonts:
         - asset: lib/fonts/medical/medical.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-partnership
-      fonts:    
+      fonts:
         - asset: lib/fonts/partnership/partnership.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-personal-development
-      fonts:    
+      fonts:
         - asset: lib/fonts/personal-development/personal-development.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-real-estate
-      fonts: 
+      fonts:
         - asset: lib/fonts/real-estate/real-estate.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-school
-      fonts: 
+      fonts:
         - asset: lib/fonts/school/school.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-social
-      fonts:     
+      fonts:
         - asset: lib/fonts/social/social.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-sport
-      fonts:     
+      fonts:
         - asset: lib/fonts/sport/sport.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-thanksgiving
-      fonts: 
+      fonts:
         - asset: lib/fonts/thanksgiving/thanksgiving.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-transportation
       fonts:
         - asset: lib/fonts/transportation/transportation.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-travel
       fonts:
         - asset: lib/fonts/travel/travel.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-virtual-reality
       fonts:
         - asset: lib/fonts/virtual-reality/virtual-reality.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-weather
       fonts:
         - asset: lib/fonts/weather/weather.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-web-design
       fonts:
         - asset: lib/fonts/web-design/web-design.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-winter
       fonts:
         - asset: lib/fonts/winter/winter.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-working-together
       fonts:
         - asset: lib/fonts/working-together/working-together.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-world-monument
       fonts:
         - asset: lib/fonts/world-monuments/world-monuments.ttf
+          style: normal
+          weight: 400
 
     - family: Atlas-yoga
       fonts:
         - asset: lib/fonts/yoga/yoga.ttf
+          style: normal
+          weight: 400
 
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
