@@ -2,7 +2,7 @@
 
 #### Open source [icons library](http://atlasicons.vectopus.com/), Icons available in SVG format, Font, Figma, Adobe XD and Iconjar Libraries.
 
-##### _Made by [Vectopus](http://vectopus.com/)._
+##### _Made by [VectorIcons](http://vectoricons.net/)._
 
 ### How to use
 Install Flutter package.
